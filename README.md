@@ -18,7 +18,8 @@ composer require sujalpatel/inttoenglish
 ## Usage
 
 ``` php
-// Usage description here
+IntToEnglish::Int2Eng(1000); // One Thousand
+IntToEnglish::Int2Eng(10500); // Ten Thousand Five hundred
 ```
 
 ### Testing
