@@ -1,4 +1,4 @@
-# Convert Integer to English Word
+# Convert Integer to English Words
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/sujalpatel/inttoenglish.svg?style=flat-square)](https://packagist.org/packages/sujalpatel/inttoenglish)
 [![Build Status](https://img.shields.io/travis/sujalpatel/inttoenglish/master.svg?style=flat-square)](https://travis-ci.org/sujalpatel/inttoenglish)
